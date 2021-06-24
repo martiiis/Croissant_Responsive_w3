@@ -5,6 +5,7 @@ body {
 }
 
 h1,
+h2,
 p {
   text-align: center;
   display: block;
@@ -20,8 +21,8 @@ a {
 }
 
 .croissant-photo {
-    max-width: 100%;
-    border-radius: 10px;
-    display: block;
-    margin: 30px auto;
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
 }
